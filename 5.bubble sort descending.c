@@ -27,9 +27,9 @@ int main()
         }
     }
 
-    printf("\The sorted list in descending order:\n");
+    printf("The sorted list in descending order:\n");
     for(i=1;i<=n;i++)
-    printf("\%d\n",a[i]);
+    printf("%d\n",a[i]);
 }
 
 
